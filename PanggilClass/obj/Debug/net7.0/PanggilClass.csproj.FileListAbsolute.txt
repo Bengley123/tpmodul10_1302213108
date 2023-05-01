@@ -1,0 +1,36 @@
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.exe
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.deps.json
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.runtimeconfig.json
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.dll
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.pdb
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\AljabarLibraries.dll
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\AljabarLibraries.pdb
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.AssemblyInfo.cs
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.CopyComplete
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.dll
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\refint\PanggilClass.dll
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.pdb
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.genruntimeconfig.cache
+C:\Users\asus\Documents\latihan\tpkpl\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\ref\PanggilClass.dll
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.exe
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.deps.json
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.runtimeconfig.json
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.dll
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\PanggilClass.pdb
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\AljabarLibraries.dll
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\bin\Debug\net7.0\AljabarLibraries.pdb
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.AssemblyReference.cache
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.AssemblyInfoInputs.cache
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.AssemblyInfo.cs
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.CoreCompileInputs.cache
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.csproj.CopyComplete
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.dll
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\refint\PanggilClass.dll
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.pdb
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\PanggilClass.genruntimeconfig.cache
+D:\Desain Thinking\tpmodul10_1302210112\PanggilClass\obj\Debug\net7.0\ref\PanggilClass.dll
